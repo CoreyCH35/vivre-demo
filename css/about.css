@@ -107,7 +107,7 @@ body {
   text-decoration: none;
   color: inherit; /* 繼承父元素顏色 */
 }
-.nav-item ul li:hover {
+.nav-item ul .hovers:hover {
   background-color: #569573;
   color: white;
   cursor: pointer;
